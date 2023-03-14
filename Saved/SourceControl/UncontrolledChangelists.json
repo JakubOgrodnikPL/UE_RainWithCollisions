@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/NS_Rain.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/RainWithCollision/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SV/TCRLKYCBC2S8Y7E06ONENQ.uasset"
+			]
+		}
+	]
+}
